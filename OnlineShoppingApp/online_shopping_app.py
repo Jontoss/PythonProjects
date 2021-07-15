@@ -1,4 +1,4 @@
-﻿
+﻿ 
 #-----Statement of Authorship----------------------------------------#
 #
 #  This is an individual assessment item.  By submitting this
@@ -8,7 +8,7 @@
 #  in QUT's Manual of Policies and Procedures, Section C/5.3
 #  "Academic Integrity" and Section E/2.1 "Student Code of Conduct".
 #
-#    Student no: N10216944
+#    Student no: #######
 #    Student name: Jonty Graver
 #
 #  NB: Files submitted without a completed copy of this statement
